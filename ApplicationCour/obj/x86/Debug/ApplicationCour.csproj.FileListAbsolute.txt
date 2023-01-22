@@ -1,0 +1,28 @@
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.Facture1.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.Facture2.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.Facture3.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.ImprimeFacture.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.ListeProduit.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.Menu.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.Properties.Resources.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.csproj.GenerateResource.Cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\bin\Debug\ApplicationCour.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\bin\Debug\ApplicationCour.pdb
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\ApplicationCour\obj\x86\Debug\ApplicationCour.pdb
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.exe
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.pdb
+E:\tp vb\C#\ApplicationCour\ApplicationCour\bin\Debug\ApplicationCour.exe
+E:\tp vb\C#\ApplicationCour\ApplicationCour\bin\Debug\ApplicationCour.pdb
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.Facture1.resources
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.Facture2.resources
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.Facture3.resources
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.ImprimeFacture.resources
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.ListeProduit.resources
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.Menu.resources
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.Properties.Resources.resources
+E:\tp vb\C#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.csproj.GenerateResource.Cache
+F:\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.exe
+F:\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.pdb
+E:\3 eme\c#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.exe
+E:\3 eme\c#\ApplicationCour\ApplicationCour\obj\x86\Debug\ApplicationCour.pdb
